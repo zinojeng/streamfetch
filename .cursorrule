@@ -1,0 +1,15 @@
+{
+  "name": "IDF-MP4-Capture",
+  "version": "1.0.0",
+  "description": "捕獲 IDF 網站上的分段 MP4 檔案",
+  "main": "capture-mp4.js",
+  "scripts": {
+    "start": "node capture-mp4.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "fs-extra": "^11.1.1"
+  },
+  "author": "",
+  "license": "MIT"
+} 

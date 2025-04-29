@@ -1,0 +1,22 @@
+{
+  "name": "idf-mp4-capture",
+  "version": "1.0.0",
+  "description": "捕獲並下載 IDF 網站上的分段 MP4 檔案",
+  "main": "capture-mp4.js",
+  "scripts": {
+    "start": "node capture-mp4.js"
+  },
+  "keywords": [
+    "mp4",
+    "download",
+    "puppeteer",
+    "video"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.4.0",
+    "fs-extra": "^11.3.0",
+    "puppeteer-core": "^22.8.2"
+  }
+}
