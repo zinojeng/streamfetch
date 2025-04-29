@@ -23,7 +23,7 @@
 1. 克隆此存儲庫:
 
 ```bash
-git clone https://github.com/your-username/streamfetch.git
+git clone https://github.com/zinojeng/streamfetch.git
 cd streamfetch
 ```
 
@@ -112,4 +112,4 @@ MIT 許可證 - 詳見 LICENSE 文件
 
 ## 免責聲明
 
-本工具僅用於合法下載擁有版權的內容。用戶需自行負責使用本工具的方式和下載的內容。請尊重版權並遵守相關法律法規。 
+本工具僅用於合法下載擁有版權的內容。用戶需自行負責使用本工具的方式和下載的內容。請尊重版權並遵守相關法律法規。
